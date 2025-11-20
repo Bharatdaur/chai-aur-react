@@ -1,0 +1,15 @@
+.container{
+    /* margin-top: 50px; */
+    display: flex;
+    /* flex-wrap: wrap; */
+    /* justify-content: center; */
+    align-items: center;
+    gap: 20px;
+}
+#name{
+    text-decoration-thickness: bold;
+    font-size: xx-large;
+}
+#pic{
+    border-radius: 50px;
+}
